@@ -1,0 +1,23 @@
+{
+  "test_name": "Interrogation — Kelly vs Pete (blood sample path)",
+  "happy_end": "Pete provides usable blood and handwriting samples; the scene ends with admissible evidence.",
+  "turns_left": 3,
+  "story": [
+    {
+      "narration": "The room hums under the fluorescent buzz. Kelly slides a form across. \"Just routine, Pete — name, date, and a quick signature.\" Pete's jaw tightens; his eyes skim the door.",
+      "choice": "Do you reassure him about procedure or hint that refusal looks bad?"
+    },
+    {
+      "narration": "Kelly softens his tone. \"Nobody's calling you a killer. Help me tidy the paperwork.\" He sets a ballpoint beside the form. Pete exhales, shoulders sinking; wavering.",
+      "choice": "Offer water and a neutral talk, or quietly mention the Torino paperwork?"
+    },
+    {
+      "narration": "Pete picks up the pen. \"Fine.\" He signs the slip; a nurse from the next room pricks his finger for a blot. The lab tech nods from the doorway: clean chain of custody, samples secured — enough to run matched tests. Kelly closes the file; the room feels larger."
+    }
+  ],
+  "choices": [
+    "Ask the tech to log the samples and mark the time.",
+    "Have Pete initial the evidence envelope flap.",
+    "Call the lab to prioritize the typing and comparison."
+  ]
+}

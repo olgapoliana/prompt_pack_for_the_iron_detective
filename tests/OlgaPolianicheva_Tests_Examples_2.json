@@ -1,0 +1,23 @@
+{
+  "test_name": "Apartment Search — finding the note behind wallpaper",
+  "happy_end": "Kelly legally recovers a handwritten note from behind the wallpaper, bagged and logged as admissible evidence.",
+  "turns_left": 3,
+  "story": [
+    {
+      "narration": "Kelly steps into the dim walk-up; old varnish and steam heat. \"We go careful,\" he tells the junior. The living room wall shows a faint rectangle where the sun never hit.",
+      "choice": "Examine the baseboard for loose nails, or call the super to witness?"
+    },
+    {
+      "narration": "He runs a knuckle along the seam; the paper rattles. \"Get me a photo before we touch it.\" The junior frames the shot; Kelly lifts a corner with a putty knife.",
+      "choice": "Peel slowly for a clean lift, or cut a square to preserve layers?"
+    },
+    {
+      "narration": "Behind the paper: a thin folded sheet. Kelly slips it into a glassine, signs the label, and has the junior countersign. \"Chain’s good.\" The script matches prior samples; time-stamped, photographed, logged — admissible and intact."
+    }
+  ],
+  "choices": [
+    "Call the lab to rush a comparison against prior samples.",
+    "Request prints from the paper edges and putty knife.",
+    "Notify the ADA that new physical evidence is logged."
+  ]
+}
