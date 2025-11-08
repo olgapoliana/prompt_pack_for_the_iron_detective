@@ -1,5 +1,3 @@
-# Olga Polianicheva — Prompt Pack for "The Iron Detective"
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Tests: Passed](https://img.shields.io/badge/tests-passed-brightgreen)](#test-status)
 
